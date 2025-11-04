@@ -1,6 +1,6 @@
 # Blog
 
-[AI 时代的商业化卖课设计以及 AI 自己对此的看法——以法律英语课程学习与实践为例](https://github.com/qianjun1985/myblog/issues/31)
+[AI 时代的商业化卖课设计以及 AI 自己对此的看法——以法律英语课程学习与实践为例 #31](https://github.com/qianjun1985/myblog/issues/31)
 
 [從學徒到師父：英語文學研究的匠人路徑手冊 #30](https://github.com/qianjun1985/myblog/issues/30)
 
