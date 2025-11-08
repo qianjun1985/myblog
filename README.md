@@ -1,5 +1,9 @@
 # Blog
 
+[法律⼈如何淬炼英语技艺（削⽪挫⻣版）](https://github.com/qianjun1985/myblog/issues/33)
+
+[言出法随：法律人的英语口语和听力的突破之道 #32](https://github.com/qianjun1985/myblog/issues/32)
+
 [AI 时代的商业化卖课设计以及 AI 自己对此的看法——以法律英语课程学习与实践为例 #31](https://github.com/qianjun1985/myblog/issues/31)
 
 [從學徒到師父：英語文學研究的匠人路徑手冊 #30](https://github.com/qianjun1985/myblog/issues/30)
