@@ -1,5 +1,7 @@
 # Blog
 
+[英语专业与内卷](https://github.com/qianjun1985/myblog/issues/36)
+
 [Epictetus 的哲学、Stockdale Paradox 与 英语专业毕业生](https://github.com/qianjun1985/myblog/issues/35)
 
 [英语专业人转型攻略与避坑指南：以法律领域为例](https://github.com/qianjun1985/myblog/issues/34)
