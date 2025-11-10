@@ -1,5 +1,7 @@
 # Blog
 
+[Teaching-as-Learning for a Beginner in Literature](https://github.com/qianjun1985/myblog/issues/38)
+
 [AI评价文学教学高低](https://github.com/qianjun1985/myblog/issues/37)
 
 [英语专业与内卷](https://github.com/qianjun1985/myblog/issues/36)
