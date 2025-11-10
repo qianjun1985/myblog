@@ -1,6 +1,8 @@
 # Blog
 
-[英语专业人转型攻略与避坑指南：以法律领域为例](https://github.com/qianjun1985/myblog/issues/34#issue-3604674978)
+[Epictetus 的哲学、Stockdale Paradox 与 英语专业毕业生](https://github.com/qianjun1985/myblog/issues/35)
+
+[英语专业人转型攻略与避坑指南：以法律领域为例](https://github.com/qianjun1985/myblog/issues/34)
 
 [法律⼈如何淬炼英语技艺（削⽪挫⻣版）](https://github.com/qianjun1985/myblog/issues/33)
 
