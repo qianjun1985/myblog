@@ -1,5 +1,7 @@
 # Blog
 
+[结构化英语教学：附英文段落课堂讲解流程实例](https://github.com/qianjun1985/myblog/issues/39)
+
 [Teaching-as-Learning for a Beginner in Literature](https://github.com/qianjun1985/myblog/issues/38)
 
 [AI评价文学教学高低](https://github.com/qianjun1985/myblog/issues/37)
