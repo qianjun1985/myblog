@@ -1,6 +1,18 @@
 # Blog
 [作为刚需的职场英语口语突破](https://github.com/qianjun1985/myblog/issues/47)
 
+[职场英语口语强化突破 vs 自然习得](https://github.com/qianjun1985/myblog/issues/46)
+
+[想要英语思维？看这篇就够了](https://github.com/qianjun1985/myblog/issues/45)
+
+[英语听说突破](https://github.com/qianjun1985/myblog/issues/44)
+
+[写给有口语焦虑的你](https://github.com/qianjun1985/myblog/issues/43)
+
+[AI评中国英语教育最大的失败之处](https://github.com/qianjun1985/myblog/issues/42)
+
+[成为法律人](https://github.com/qianjun1985/myblog/issues/41)
+
 [结构化教学跨学科应用：以数学为例](https://github.com/qianjun1985/myblog/issues/40)
 
 
