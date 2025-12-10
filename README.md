@@ -13,7 +13,7 @@
 
 [成为法律人](https://github.com/qianjun1985/myblog/issues/41)
 
-[结构化教学跨学科应用：以数学为例](https://github.com/qianjun1985/myblog/issues/40)
+[结构化教学在中学数学课堂应用：以二次函数为例](https://github.com/qianjun1985/myblog/issues/40)
 
 
 [结构化英语教学：附英文段落课堂讲解流程实例](https://github.com/qianjun1985/myblog/issues/39)
