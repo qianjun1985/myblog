@@ -1,4 +1,28 @@
 # Blog
+[英语师范生基础教学技能训练指南](https://github.com/qianjun1985/myblog/issues/59)
+
+[从“勉强日常对话”到“国际化教学”路线图](https://github.com/qianjun1985/myblog/issues/58)
+
+[关于“冒名者综合症” Impostor Syndrome](https://github.com/qianjun1985/myblog/issues/57)
+
+[英语新手教师磨课训练流程](https://github.com/qianjun1985/myblog/issues/56)
+
+[孤鴻寄語默蒼離：英语学习者的铸心时刻](https://github.com/qianjun1985/myblog/issues/55)
+
+[百世经纶一页书：英语长篇巨著的“全集中呼吸”训练突破](https://github.com/qianjun1985/myblog/issues/54)
+
+[知识分子阶层的英语： 《纽约客》与 BBC Radio 4](https://github.com/qianjun1985/myblog/issues/53)
+
+[另类英语听力练习材料：日本NHK英语频道的价值](https://github.com/qianjun1985/myblog/issues/52)
+
+[中学那些数学学了到底有啥用？看AI怎么说，兼评中国数学教育现实问题](https://github.com/qianjun1985/myblog/issues/51)
+
+[比较中美两国数学教育](https://github.com/qianjun1985/myblog/issues/50)
+
+[再论英语听力是否比口语更简单](https://github.com/qianjun1985/myblog/issues/49)
+
+[英语听力比口语更简单吗？附英语听力理解训练指南](https://github.com/qianjun1985/myblog/issues/48)
+
 [作为刚需的职场英语口语突破](https://github.com/qianjun1985/myblog/issues/47)
 
 [职场英语口语强化突破 vs 自然习得](https://github.com/qianjun1985/myblog/issues/46)
