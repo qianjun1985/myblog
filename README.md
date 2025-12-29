@@ -1,4 +1,12 @@
 # Blog
+[千年暗室，一灯即明：张益唐](https://github.com/qianjun1985/myblog/issues/63)
+
+[以小说《剑来》的方式打开英语专业之门](https://github.com/qianjun1985/myblog/issues/62)
+
+[闲聊高校学人困境：这一次，东方智慧似乎略胜一筹](https://github.com/qianjun1985/myblog/issues/61)
+
+[一文讲透英语专业从学习到就业的问题](https://github.com/qianjun1985/myblog/issues/60)
+
 [英语师范生基础教学技能训练指南](https://github.com/qianjun1985/myblog/issues/59)
 
 [从“勉强日常对话”到“国际化教学”路线图](https://github.com/qianjun1985/myblog/issues/58)
