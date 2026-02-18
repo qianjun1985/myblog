@@ -1,4 +1,6 @@
 # Blog
+[跟英语学习中的浪漫化脱钩](https://github.com/qianjun1985/myblog/issues/64)
+
 [千年暗室，一灯即明：张益唐](https://github.com/qianjun1985/myblog/issues/63)
 
 [以小说《剑来》的方式打开英语专业之门](https://github.com/qianjun1985/myblog/issues/62)
