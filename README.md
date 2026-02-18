@@ -1,4 +1,6 @@
 # Blog
+[读后续写、任务型教学法等是贩卖概念吗？](https://github.com/qianjun1985/myblog/issues/65)
+
 [跟英语学习中的浪漫化脱钩](https://github.com/qianjun1985/myblog/issues/64)
 
 [千年暗室，一灯即明：张益唐](https://github.com/qianjun1985/myblog/issues/63)
